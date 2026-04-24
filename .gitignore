@@ -1,2 +1,9 @@
 .venv
 .env
+env
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.db    
